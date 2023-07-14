@@ -1,6 +1,6 @@
 # BACKPACK - Learning Management System
 
-Backpack is a Learning Management System (LMS) developed by you for BYLD, the developer group at IIITD. It is designed to support multiple roles, including instructors and students, and provides a command line simulation of a single course page. This is a command line simulation of the same.
+Backpack is a Learning Management System (LMS) developed by BYLD, the developer group at IIITD. It is designed to support multiple roles, including instructors and students, and provides a command line simulation of a single course page. This is a command line simulation of the same.
 
 ## Introduction
 Ever since the arrival of Google Classroom (GC), it has been the go-to LMS for IIITD. However, there has been a need for IIITD to have its own LMS. Hence, the institute administration initiated the "BACKPACK" project, and we were contacted by BYLD to provide our inputs and develop the system.
